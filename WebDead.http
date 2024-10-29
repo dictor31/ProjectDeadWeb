@@ -1,0 +1,6 @@
+@WebDead_HostAddress = http://localhost:5152
+
+GET {{WebDead_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
